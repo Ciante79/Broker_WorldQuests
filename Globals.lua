@@ -43,7 +43,7 @@ BWQ.MAP_ZONES = {
 		[2444] = { id = 2444, name = C_Map.GetMapInfo(2444).name, quests = {}, buttons = {}, }, -- Slayer's Rise (part of Voidstorm) 12.0
 		[2599] = { id = 2599, name = C_Map.GetMapInfo(2599).name, quests = {}, buttons = {}, }, -- Val 12.0.7
 		[2600] = { id = 2600, name = C_Map.GetMapInfo(2600).name, quests = {}, buttons = {}, }, -- Naigtal 12.0.7
-		[2512] = { id = 2512, name = C_Map.GetMapInfo(2512).name, quests = {}, buttons = {}, }, -- Coiled Isle 12.1
+		[2512] = { id = 2512, name = C_Map.GetMapInfo(2512).name, quests = {}, buttons = {}, }, -- The Coiled Isle 12.1
 	},
 	[CONSTANTS.EXPANSIONS.THEWARWITHIN] = {
 		[2248] = { id = 2248, name = C_Map.GetMapInfo(2248).name, quests = {}, buttons = {}, }, -- Isle of Dorn 11.0
