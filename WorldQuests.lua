@@ -1860,7 +1860,7 @@ function BWQ:UpdateUI()
 						)
 					end
 					if button.quest.reward.money and button.quest.reward.money > 0 then
-						local moneyText = GetCoinTextureString(button.quest.reward.money)
+						local moneyText = C_CurrencyInfo.GetCoinTextureString(button.quest.reward.money)
 						rewardText = string.format(
 							"%s%s%s",
 							rewardText,
